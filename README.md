@@ -109,7 +109,7 @@ React renders analysis card + shopping cards
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/davidluu21111/outfit_advisor
 cd AI_outfit_advisor
 ```
 
@@ -140,7 +140,7 @@ cp .env.example .env
 GEMINI_API_KEY=your-gemini-api-key-here
 ```
 
-> **Never commit `.env` to GitHub.** It is already listed in `.gitignore`.
+
 
 ### 5. Install frontend dependencies
 
