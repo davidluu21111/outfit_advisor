@@ -1,0 +1,24 @@
+# ── Secrets ──────────────────────────────────────────────
+.env
+frontend/.env.development
+frontend/.env.production
+
+# ── Python virtual environment ───────────────────────────
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── OS / editor ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── Logs ─────────────────────────────────────────────────
+*.log
