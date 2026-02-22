@@ -1,6 +1,6 @@
 # AI Outfit Advisor
 
-An AI-powered web application that analyzes outfit photos, identifies clothing items, provides personalized style recommendations, and generates shopping links — powered by **Google Gemini 2.5 Pro** multimodal vision AI.
+An AI-powered web application that analyzes outfit photos, identifies clothing items, provides personalized style recommendations, and generates shopping links — powered by **Google Gemini 2.5 Pro**.
 
 ---
 
