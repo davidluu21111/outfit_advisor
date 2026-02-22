@@ -4,6 +4,12 @@ An AI-powered web application that analyzes outfit photos, identifies clothing i
 
 ---
 
+## Demo
+
+https://github.com/davidluu21111/outfit_advisor/raw/main/demo.mp4
+
+---
+
 ## Features
 
 - **Outfit Identification** — Upload a photo and the AI identifies each clothing item with color, style, and material details
